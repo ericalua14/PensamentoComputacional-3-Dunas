@@ -1,0 +1,2 @@
+nome ="erica"
+print(nome)
